@@ -1,3 +1,2 @@
-else{
-        printf("All numbers are equal ");
-    }
+ // printf("Enter the number ");
+    // scanf("%d",&n);
